@@ -1,0 +1,7 @@
+streamlit
+transformers
+ffmpeg
+soundfile
+coqui-tts
+numpy
+torchaudio
